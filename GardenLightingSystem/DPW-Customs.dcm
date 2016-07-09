@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP IRF9952
+D MOSFET N/P-Channel 30V 8-SOIC
+$ENDCMP
+#
 #End Doc Library
